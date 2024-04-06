@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kadek Nandana Tyo Nayotama, you can call me Tyo</h1>
+<h1 align="center">Hi 👋, I'm Tyo</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [Includemy](https://github.com/nandanatyo/INCLUDEMY)
