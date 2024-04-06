@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyo</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-![Uploading giphy.gif…]()
-
+![giphy](https://github.com/nandanatyo/nandanatyo/assets/129768896/240a4143-9e53-4fa0-bac9-dae971a888d4)
 
 - 🔭 I’m currently working on [Includemy](https://github.com/nandanatyo/INCLUDEMY)
 
