@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tyo</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
+![Uploading giphy.gif…]()
+
 
 - 🔭 I’m currently working on [Includemy](https://github.com/nandanatyo/INCLUDEMY)
 
