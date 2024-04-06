@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tyo</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdrZGtrcjc3cDljbXBta3V2ZzVia2g1d2l4Mmtuc3I0ZDkwNGk0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)]
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdrZGtrcjc3cDljbXBta3V2ZzVia2g1d2l4Mmtuc3I0ZDkwNGk0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 
 - 🔭 I’m currently working on [Includemy](https://github.com/nandanatyo/INCLUDEMY)
 
