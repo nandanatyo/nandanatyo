@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://github.com/nandanatyo/nandanatyo/assets/129768896/240a4143-9e53-4fa0-bac9-dae971a888d4" alt="Description">
+  <img src="https://media.giphy.com/media/4no7ul3pa571e/giphy.gif?cid=ecf05e47ki042fzi5erim80dyafwv1erc6chh8453zbfbrvj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 
