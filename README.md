@@ -106,10 +106,6 @@ const tyo = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandanatyo&theme=algolia" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanatyo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -123,7 +119,7 @@ const tyo = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanatyo&custom_title=Tyo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanatyo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
